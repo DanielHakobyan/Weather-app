@@ -1,7 +1,5 @@
 # Weather app
 
-<<<<<<<<<<<<<< ✨ Codeium Command ⭐ >>>>>>>>>>>>>>>>
-
 ## Getting Started
 
 To use this weather app, you need to have JavaScript enabled and a web browser installed on your device.
@@ -24,4 +22,3 @@ Please do not make any changes to this project. This is a personal project and I
 ## License
 
 This project is licensed under the MIT License. Please refer to the LICENSE.md file for more information.
-<<<<<<< 837596da-f747-407c-9461-ea28883b00a1 >>>>>>>
